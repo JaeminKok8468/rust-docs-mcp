@@ -14,3 +14,4 @@ Notes and usage details for rust-docs-mcp.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
